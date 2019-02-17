@@ -1,0 +1,238 @@
+/* 
+ * Styles for splash screen page
+ * 
+*/
+
+table.blacklist-table, table.blacklist-table td, table.blacklist-table th {
+    border: 1px solid rgba(100, 100, 100, 0.3);
+}
+
+table.blacklist-table td.command-column, table.blacklist-table th.command-column {
+	width: 20%; 
+	text-align: center;
+}
+
+table.blacklist-table th.ip-header{
+	text-align: center;
+}
+
+table.blacklist-table {
+    border-collapse: collapse;
+	width: 50%; 
+	
+}
+
+
+
+
+
+
+
+
+
+
+/* ================================================   blacklist table begin =========================================================  */
+
+.fixed_headers {
+  width: 450px;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+  
+.fixed_headers th { color: white; text-align: left; }
+
+.fixed_headers th, .fixed_headers td {
+    padding: 5px;
+    text-align: left;
+}
+
+table.fixed_headers td.command-column, table.fixed_headers th.command-column {
+	text-align: left;
+}
+
+  
+table.fixed_headers td:nth-child(1), table.fixed_headers th:nth-child(1) { min-width: 250px; }  
+table.fixed_headers td:nth-child(2), table.fixed_headers th:nth-child(2) { min-width: 170px; }  
+/*td:nth-child(3), th:nth-child(3) { width: 350px; }  */
+
+.fixed_headers thead {
+    background-color: #333;
+    color: #FDFDFD;
+
+}
+
+
+.fixed_headers thead tr {
+      display: block;
+      position: relative;
+}
+
+
+.fixed_headers tbody {
+    display: block;
+    overflow: auto;
+    width: 100%;
+    height: 300px;
+}
+
+/*.fixed_headers tbody tr:nth-child(even) {
+      background-color: #DDD;
+}
+*/
+
+.fixed_headers tbody tr, .fixed_headers tbody {
+    background-color: #DDD;
+}
+
+
+.fixed_headers .old_ie_wrapper {
+  height: 300px;
+  width: 450px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  tbody { height: auto; }
+}
+
+
+button.clear_blacklist {
+	margin: 10px 0px 10px 0px;
+}
+
+
+/* ================================================   blacklist table end =========================================================  */
+
+
+
+/* ================================================   banlist table begin =========================================================  */
+
+.fixed_headers_ban {
+  width: 720px;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+  
+.fixed_headers_ban th { color: white; text-align: left; }
+
+.fixed_headers_ban th, .fixed_headers_ban td {
+    padding: 5px;
+    text-align: left;
+}
+/*
+table.fixed_headers_ban td.command-column, table.fixed_headers_ban th.command-column {
+	text-align: left;
+}
+*/
+
+  
+table.fixed_headers_ban td:nth-child(1), table.fixed_headers_ban th:nth-child(1) { min-width: 190px; }  
+table.fixed_headers_ban td:nth-child(2), table.fixed_headers_ban th:nth-child(2) { min-width: 190px; }
+table.fixed_headers_ban td:nth-child(3), table.fixed_headers_ban th:nth-child(3) { min-width: 190px; } 
+table.fixed_headers_ban td:nth-child(4), table.fixed_headers_ban th:nth-child(4) { min-width: 130px; }   
+/*td:nth-child(3), th:nth-child(3) { width: 350px; }  */
+
+.fixed_headers_ban thead {
+    background-color: #333;
+    color: #FDFDFD;
+
+}
+
+
+.fixed_headers_ban thead tr {
+      display: block;
+      position: relative;
+}
+
+
+.fixed_headers_ban tbody {
+    display: block;
+    overflow: auto;
+    width: 100%;
+    height: 300px;
+}
+
+
+.fixed_headers_ban tbody tr, .fixed_headers_ban tbody {
+    background-color: #DDD;
+}
+
+table.fixed_headers_ban .old_ie_wrapper {
+  height: 300px;
+  width: 750px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  tbody { height: auto; }
+}
+
+
+
+/* banlist number table */
+
+.fixed_headers_bannumber {
+  width: 720px;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+  
+.fixed_headers_bannumber  th { color: white; text-align: left; }
+
+.fixed_headers_bannumber  th, .fixed_headers_bannumber  td {
+    padding: 5px;
+    text-align: left;
+}
+
+
+table.fixed_headers_bannumber  td:nth-child(1), table.fixed_headers_bannumber  th:nth-child(1) { min-width: 360px; }  
+table.fixed_headers_bannumber  td:nth-child(2), table.fixed_headers_bannumber  th:nth-child(2) { min-width: 200px; }
+table.fixed_headers_bannumber  td:nth-child(3), table.fixed_headers_bannumber  th:nth-child(3) { min-width: 100px; }
+ 
+/*td:nth-child(3), th:nth-child(3) { width: 350px; }  */
+
+.fixed_headers_bannumber  thead {
+    background-color: #333;
+    color: #FDFDFD;
+
+}
+
+
+.fixed_headers_bannumber  thead tr {
+      display: block;
+      position: relative;
+}
+
+
+.fixed_headers_bannumber  tbody {
+    display: block;
+    overflow: auto;
+    width: 100%;
+    height: 300px;
+}
+
+
+.fixed_headers_bannumber  tbody tr, .fixed_headers_bannumber  tbody {
+    background-color: #DDD;
+}
+
+table.fixed_headers_bannumber  .old_ie_wrapper {
+  height: 300px;
+  width: 750px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  tbody { height: auto; }
+}
+
+
+
+
+
+/* ================================================   banlist table end =========================================================  */
+
+
+/* ================================================   Modal window start =========================================================  */
+
+.modal-yes-no{
+	width: 500px; !important;
+}
+
+
+
+/* ================================================   Modal window end =========================================================  */

@@ -1,0 +1,265 @@
+﻿#: plugin name: SAM
+
+msgid "IP"
+msgstr ""
+
+msgid "START TIME"
+msgstr ""
+
+msgid "END TIME"
+msgstr ""
+
+msgid "OPERATION"
+msgstr ""
+
+msgid "NUMBER"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Janaury"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "General settings"
+msgstr ""
+
+msgid "Ban conditions"
+msgstr ""
+
+msgid "Ban period"
+msgstr ""
+
+msgid "Conditions for adding to blacklist"
+msgstr ""
+
+msgid "Email if IP added to banlist"
+msgstr ""
+
+msgid "enter valid email"
+msgstr ""
+
+msgid "Time(seconds)"
+msgstr ""
+
+msgid "Number of requests"
+msgstr ""
+
+msgid "Number of bans"
+msgstr ""
+
+msgid "Error, try later"
+msgstr ""
+
+msgid "Incorrect IP"
+msgstr ""
+
+msgid "Can't add IP. Such IP already added to blacklist"
+msgstr ""
+
+msgid "Can't add IP. Such IP already added to banlist"
+msgstr ""
+
+msgid "Can't add IP. Incorrect period"
+msgstr ""
+
+msgid "Splash screen settings"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Show splash screen"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Custom css"
+msgstr ""
+
+msgid "Use custom screen"
+msgstr ""
+
+msgid "Custom screen html"
+msgstr ""
+
+msgid "If specified, it overrides the default splash screen"
+msgstr ""
+
+msgid "Body html content"
+msgstr ""
+
+msgid "Access denied screen settings"
+msgstr ""
+
+msgid "Show window"
+msgstr ""
+
+msgid "CSS styles"
+msgstr ""
+
+msgid "HTML structure"
+msgstr ""
+
+msgid "If specified, it overrides the default window"
+msgstr ""
+
+msgid "Banlist operations"
+msgstr ""
+
+msgid "Banlist"
+msgstr ""
+
+msgid "Number of bans list"
+msgstr ""
+
+msgid "Clear banlist"
+msgstr ""
+
+msgid "Add IP to the banlist"
+msgstr ""
+
+msgid "Clear number of bans list"
+msgstr ""
+
+msgid "Ban period(seconds)"
+msgstr ""
+
+msgid "Are you sure you want to remove the IP"
+msgstr ""
+
+msgid "Are you sure you want to clear banlist?"
+msgstr ""
+
+msgid "Are you sure you want to remove the IP?"
+msgstr ""
+
+msgid "Are you sure you want to clear the number of bans list?"
+msgstr ""
+
+msgid "Blacklist settings"
+msgstr ""
+
+msgid "Clear the blacklist"
+msgstr ""
+
+msgid "Add IP to the blacklist"
+msgstr ""
+
+msgid "Are you sure you want to remove the IP "
+msgstr ""
+
+msgid "Are you sure you want to clear blacklist?"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Statistics of requests"
+msgstr ""
+
+msgid "Clear statistics"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Referer"
+msgstr ""
+
+msgid "Apply filter"
+msgstr ""
+
+msgid "The statistics will be removed including specified dates"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Till"
+msgstr ""
+
+msgid "Do you really want to remove statistics between the dates(included):"
+msgstr ""
+
+msgid "Start period can't be later than end period!"
+msgstr ""
+
+msgid "Enter custom referer"
+msgstr ""
+
+msgid "site"
+msgstr ""
+
+msgid "custom"
+msgstr ""
+
+msgid "Splash screen"
+msgstr ""
+
+msgid "Access denied screen"
+msgstr ""
+
+msgid "Ban list"
+msgstr ""
+
+msgid "Black list"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Remove"
+msgstr ""		

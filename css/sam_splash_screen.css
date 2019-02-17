@@ -1,0 +1,41 @@
+/* 
+ * Styles for splash screen page
+ * 
+*/
+
+.fw-splash-screen {
+  margin: 150px auto;
+  width: 60%;
+  border: 3px solid rgba(100, 100, 100, .9);
+  padding: 10px;
+  text-align: center; 
+}
+
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid rgba(100, 100, 100, .9);
+    padding: 10px;
+	text-align: center;
+}
+
+.h1 {
+	text-align: center;
+}
+
+.fw-h1 {
+	text-align: center;
+	font-size: 170%;
+	font-family: sans-serif;
+	/*color: rgb(236, 236, 236); */
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	margin: 5px 0px;
+	color: red;
+}
+
+
+.fw-splash-desc {
+	font-size: 120%;
+}

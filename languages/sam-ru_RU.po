@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "START TIME"
+msgstr "НАЧАЛЬНОЕ ВРЕМЯ"
+
+msgid "END TIME"
+msgstr "КОНЕЧНОЕ ВРЕМЯ"
+
+msgid "OPERATION"
+msgstr "ОПЕРАЦИИ"
+
+msgid "NUMBER"
+msgstr "КОЛИЧЕСТВО"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Janaury"
+msgstr "Январь"
+
+msgid "February"
+msgstr "Февраль"
+
+msgid "March"
+msgstr "Март"
+
+msgid "April"
+msgstr "Апрель"
+
+msgid "May"
+msgstr "Май"
+
+msgid "June"
+msgstr "Июнь"
+
+msgid "July"
+msgstr "Июль"
+
+msgid "August"
+msgstr "Август"
+
+msgid "September"
+msgstr "Сентябрь"
+
+msgid "October"
+msgstr "Октябрь"
+
+msgid "November"
+msgstr "Ноябрь"
+
+msgid "December"
+msgstr "Декабрь"
+
+msgid "General settings"
+msgstr "Общие настройки"
+
+msgid "Ban conditions"
+msgstr "Усливия бана"
+
+msgid "Ban period"
+msgstr "Период бана"
+
+msgid "Conditions for adding to blacklist"
+msgstr "Усливия для добавления в черный список"
+
+msgid "Email if IP added to banlist"
+msgstr "Выслать email  при добавлении IP в бан-список"
+
+msgid "enter valid email"
+msgstr "введите mail"
+
+msgid "Time(seconds)"
+msgstr "Время(секунды)"
+
+msgid "Number of requests"
+msgstr "Количество запросов"
+
+msgid "Number of bans"
+msgstr "Количество банов"
+
+msgid "Error, try later"
+msgstr "Ошибка, повторите позже"
+
+msgid "Incorrect IP"
+msgstr "Неправильный IP"
+
+msgid "Can't add IP. Such IP already added to blacklist"
+msgstr "Невизможно добавить IP. Такой IP уже добавлен в черный список"
+
+msgid "Can't add IP. Such IP already added to banlist"
+msgstr "Невизможно добавить IP. Такой IP уже добавлен бан-список"
+
+msgid "Can't add IP. Incorrect period"
+msgstr "Невизможно добавить IP. Неправильный период"
+
+msgid "Splash screen settings"
+msgstr "Настройки сплеш-окна"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Advanced"
+msgstr "Дополнительные"
+
+msgid "Show splash screen"
+msgstr "Показывать сплеш-окно"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Custom css"
+msgstr "Пользовательский css"
+
+msgid "Use custom screen"
+msgstr "Использовать пользовательское окно"
+
+msgid "Custom screen html"
+msgstr "html пользовательского окна"
+
+msgid "If specified, it overrides the default splash screen"
+msgstr "При активации это заменит сплеш-окно, установленное по умолчанию"
+
+msgid "Body html content"
+msgstr "Body html контент"
+
+msgid "Access denied screen settings"
+msgstr "Настройки окна отказа в доступе"
+
+msgid "Show window"
+msgstr "Показывать окно"
+
+msgid "CSS styles"
+msgstr "CSS стили"
+
+msgid "HTML structure"
+msgstr "HTML структура"
+
+msgid "If specified, it overrides the default window"
+msgstr "При указании это заменит окно, указанное по умолчанию"
+
+msgid "Banlist operations"
+msgstr "Операции бан-списка"
+
+msgid "Banlist"
+msgstr "Бан-список"
+
+msgid "Number of bans list"
+msgstr "Список кол-ва банов"
+
+msgid "Clear banlist"
+msgstr "Очистить бан-список"
+
+msgid "Add IP to the banlist"
+msgstr "Добавить IP в бан-список"
+
+msgid "Clear number of bans list"
+msgstr "Очистить список кол-ва банов"
+
+msgid "Ban period(seconds)"
+msgstr "Период бана(секунды)"
+
+msgid "Are you sure you want to remove the IP"
+msgstr "Вы действительно хотите удалить IP"
+
+msgid "Are you sure you want to clear banlist?"
+msgstr "Вы действительно хотите очистить бан-список?"
+
+msgid "Are you sure you want to remove the IP?"
+msgstr "Вы действительно хотите удалить IP?"
+
+msgid "Are you sure you want to clear the number of bans list?"
+msgstr "Вы действительно хотите очистить список кол-ва банов?"
+
+msgid "Blacklist settings"
+msgstr "Настройки черного списка"
+
+msgid "Clear the blacklist"
+msgstr "Очистить черный список"
+
+msgid "Add IP to the blacklist"
+msgstr "Добавить IP в черный список"
+
+msgid "Are you sure you want to remove the IP "
+msgstr "Вы действительно хотите удалить IP "
+
+msgid "Are you sure you want to clear blacklist?"
+msgstr "Вы действительно хотите очистить черный список?"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Statistics of requests"
+msgstr "Статистика запросов"
+
+msgid "Clear statistics"
+msgstr "Очистить статистику"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Referer"
+msgstr "Referer"
+
+msgid "Apply filter"
+msgstr "Применить фильтр"
+
+msgid "The statistics will be removed including specified dates"
+msgstr "Статистика будет удалена включая указанные даты"
+
+msgid "From"
+msgstr "От"
+
+msgid "Till"
+msgstr "До"
+
+msgid "Do you really want to remove statistics between the dates(included):"
+msgstr "Вы действительно хотите удалить статистику в периоде(включая):"
+
+msgid "Start period can't be later than end period!"
+msgstr "Начальная дата не может быть позже, чем конечная"
+
+msgid "Enter custom referer"
+msgstr "Введите пользовательский  referer"
+
+msgid "site"
+msgstr "сайт"
+
+msgid "custom"
+msgstr "пользовательский"
+
+msgid "Splash screen"
+msgstr "Сплеш-окно"
+
+msgid "Access denied screen"
+msgstr "Окно отказа в доступе"
+
+msgid "Ban list"
+msgstr "Список банов"
+
+msgid "Black list"
+msgstr "Черный список"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Ok"
+msgstr "Ок"
+
+msgid "Remove"
+msgstr "Удалить"
